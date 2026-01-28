@@ -182,7 +182,7 @@ Key exploratory queries included:
 
 ## Author
 
-*Add your name and contact information here*
+Built by Nischala Nagisetty
 
 ---
 
