@@ -1,6 +1,6 @@
 # SpaceX Falcon 9 First Stage Landing Prediction
 
-A comprehensive data science capstone project analyzing SpaceX Falcon 9 launch data to predict first stage landing success using machine learning.
+A comprehensive data science capstone project analyzing SpaceX Falcon 9 launch data to predict first-stage landing success using machine learning.
 
 ---
 
@@ -115,21 +115,6 @@ Preprocessing performed using pandas and NumPy:
 | **Machine Learning** | Scikit-learn |
 | **API Requests** | Requests library |
 
----
-
-## Project Notebooks
-
-| Notebook | Description |
-|----------|-------------|
-| [SpaceX API Data Collection](#) | Data extraction from SpaceX REST API |
-| [Web Scraping](#) | Wikipedia data extraction using BeautifulSoup |
-| [EDA with Visualization](#) | Exploratory analysis with Seaborn and Matplotlib |
-| [EDA with SQL](#) | Data exploration using SQL queries |
-| [Interactive Map with Folium](#) | Geospatial visualization of launch sites |
-| [Interactive Dashboard with Plotly Dash](#) | Dashboard with filters and visualizations |
-| [Machine Learning Prediction](#) | Classification model training and evaluation |
-
-*Note: Replace the `#` links above with your actual GitHub notebook URLs*
 
 ---
 
@@ -188,7 +173,7 @@ Built by Nischala Nagisetty
 
 ## License
 
-This project is for educational purposes as part of a data science capstone.
+This project is for educational purposes as part of a data science capstone for the IBM Data Science Certificate.
 
 ---
 
